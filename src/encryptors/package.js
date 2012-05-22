@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Encryptors for Meteor"
+  summary: "A smart package of server-side encryption strategies"
 });
 
 Package.on_use(function (api) {
